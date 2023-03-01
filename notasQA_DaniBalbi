@@ -12,7 +12,7 @@ Es una condicion que causa que un software falle al realizar una funcion requeri
 * Falla:
 Es la incapacidad de un software para realizar una funcion requerida de acuerdo con sus especificaciones (son producidas por defectos).
 
-# Clase 4 Base de datos y revision en testing manual
+## Entrevista a un QA
 1. Cuales son los pricipales retos de las pruebas de software?
 * Poder asegurar lo mas temprano posible la calidad de lo que uno esta entregando
 2. Que buenas practicas de testing considera que deben adoptar las organizaciones?
@@ -29,7 +29,9 @@ Por otro lado existen un tercer grupo de herramientas que se denominan herramine
 6. Pueden las pruebas garantizar el cumplimento de los objetivos de negocio? Como?
 * reveer ver Alcenit corporation
 7. Cual es el perfil de una persona encargada del area de testing?
-* Fuerte perfil de gestion, analista de QA 
+* Fuerte perfil de gestion, analista de QA
+## Clase 4 Base de datos y revision en testing manual
+
 ## Clasificacion de pruebas de testing de software
 
 1. Funcionales:
