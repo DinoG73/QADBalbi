@@ -1,7 +1,7 @@
 # Resultado de una prueba
 ## Informes de resultado de un TestCase
 Como informar el resultado de un caso de prueba?
-
+Hay una planilla exel en drive proyecto testing us
 ## Error-Defecto-Falla
 * Error:
 Se refiere a la diferencia entre la salida actual de un software y la correcta. Tambien puede ser una accion que introduce en el software en defecto o falla.
@@ -31,9 +31,8 @@ Por otro lado existen un tercer grupo de herramientas que se denominan herramine
 7. Cual es el perfil de una persona encargada del area de testing?
 * Fuerte perfil de gestion, analista de QA
 ## Clase 4 Base de datos y revision en testing manual
-
+### Ver video
 ## Clasificacion de pruebas de testing de software
-
 1. Funcionales:
 Se realiza la validacion de las funciones del sistema, basandose en el requerimiento de las acciones a realizar.
 Las pruebas funcionales se centran en losrequisitos empresariales de una aplicacion. Solo verifican el resultado de una accion y no comprueban los estados intermedios del sistema al realizar dicha accion.
@@ -77,6 +76,11 @@ Busqueda de errores
 https://academybugs.com
 
 Crear mis casos de pruebas
+
+## Clase 5 Base de Datos, performance y stress con automatizacion
+### Ver video
+
+
 
 
 
